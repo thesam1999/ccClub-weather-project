@@ -1,7 +1,7 @@
 # yooooo!!! suuuuuup~~ homie😎😎 我們是晴報站
 ## 這是一個天氣自動提醒的專案，使用方式如下：
 
-1.再txt檔案輸入三個變數：  
+1.在txt檔案輸入三個變數：  
 &nbsp;&nbsp;&nbsp;&nbsp;第一行：縣市  
 &nbsp;&nbsp;&nbsp;&nbsp;第二行：行政區  
 &nbsp;&nbsp;&nbsp;&nbsp;第三行：日期(e.g: 今天、明天、後天、三天後、四天後、五天後、六天後、七天後) 第三行不限輸入幾個，不同天以空格分開  

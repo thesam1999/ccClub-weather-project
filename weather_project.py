@@ -142,7 +142,7 @@ def get_weather_data(chinese_input_date, location_name, weather_data):
     if chinese_input_date in chinese_to_days:
         input_date = today + \
             timedelta(days=chinese_to_days[chinese_input_date])
-        today_date = input_date.strftime("%Y年%m月%d日")
+        today_date = input_date.strftime("%Y年%m月%d日 %A")
     else:
         print('無效輸入')  # 表示無效輸入
         sys.exit()

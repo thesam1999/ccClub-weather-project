@@ -17,12 +17,13 @@
 3. 打開terminal輸入 pip install -r requirements.txt  
 
 4. 就可以執行啦！
-
+--- 
 ### 常見錯誤：
 請確定你進行操作時的位置
 在終端機輸入 dir(windows) 、 ls (macOS/Linux)
 應該會出現類似下面的內容，如果沒有的話請用cd導到正確位置
 
+```text
 Mode                 LastWriteTime         Length Name
 ----                 -------------         ------ ----
 -a----         2025/1/11  下午 12:51             11 .gitignore                                                                                                                    
@@ -33,8 +34,10 @@ Mode                 LastWriteTime         Length Name
 
 -a----         2025/1/11  下午 12:51            758 requirements.txt                                                                                                              
 
--a----         2025/1/11  下午 12:51          24353 weather_project.py                                                                                                            
+-a----         2025/1/11  下午 12:51          24353 weather_project.py                                                                      
 
----
+```                                   
+
+
 ### 備註：
 若需自動執行，請設定工作排程器。

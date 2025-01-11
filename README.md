@@ -19,9 +19,9 @@
 4. 就可以執行啦！
 --- 
 ### 常見錯誤：
-請確定你進行操作時的位置
-在終端機輸入 dir(windows) 、 ls (macOS/Linux)
-應該會出現類似下面的內容，如果沒有的話請用cd導到正確位置
+請確定你進行操作時的位置  
+在終端機輸入 dir(windows) 、 ls (macOS/Linux)  
+應該會出現類似下面的內容，如果沒有請用cd導到正確位置
 
 ```text
 Mode                 LastWriteTime         Length Name
